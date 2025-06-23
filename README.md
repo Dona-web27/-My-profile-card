@@ -8,8 +8,8 @@ Passionné de code, musique et design.
 
 ## 📬 Me contacter
 
-- GitHub : [TonPseudo](https://github.com/Dona-web27)  
-- Instagram : [@tonpseudo](https://instagram.com/natie_ncode)  
+- GitHub : [Dona-web27](https://github.com/Dona-web27)  
+- Instagram : [natie_ncode](https://instagram.com/natie_ncode)  
 - Mail : <coding.dona@gmail.com>
 
 ## 📄 Licence
